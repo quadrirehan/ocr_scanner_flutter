@@ -1,0 +1,1 @@
+ G:\\Projects\\New\ folder\\SoluLab\\ocr_scanner\\.dart_tool\\flutter_build\\9535f4f459abe07c334c0d3e28e87ed3\\dart_build_result.json: 
